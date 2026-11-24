@@ -1,0 +1,965 @@
+{
+ "generated_at": "2026-11-23T18:39:19.478960+00:00",
+ "count": 6,
+ "itineraries": [
+  {
+   "id": "dublin-3-days",
+   "title": "3 days in Dublin: history, lanes & legends",
+   "subtitle": "Walkable city routes from Viking foundations to coastal harbours",
+   "duration_days": 3,
+   "region": "Dublin",
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Ha%27Penny_Bridge_Dublin_-_Samuel_Frederick_Brocas.jpg?width=1200",
+   "summary": "Explore Dublin on foot over three balanced days: Day 1 covers the medieval core and Trinity (free preview), Day 2 links the 1916 Rising with Georgian squares and Guinness, and Day 3 uncovers hidden libraries and Howth Harbour.",
+   "is_free_preview": true,
+   "free_preview_days": 1,
+   "days": [
+    {
+     "day_number": 1,
+     "title": "Medieval core, Trinity & the Liffey",
+     "description": "Start early at Trinity College before winding through medieval lanes to Dublin Castle, Christ Church, and across the Liffey.",
+     "stops": [
+      {
+       "story_id": "trinity-college",
+       "title": "Trinity College Dublin",
+       "note": "Enter through Front Arch early to enjoy Parliament Square before tour groups arrive.",
+       "lat": 53.3442,
+       "lon": -6.2546,
+       "duration_min": 45
+      },
+      {
+       "story_id": "book-of-kells",
+       "title": "The Book of Kells",
+       "note": "Book a morning timed slot for the Old Library and the 9th-century manuscript.",
+       "lat": 53.3438,
+       "lon": -6.2546,
+       "duration_min": 60
+      },
+      {
+       "story_id": "dublin-castle",
+       "title": "Dublin Castle",
+       "note": "Walk the Upper Yard and Dubh Linn Gardens where Dublin got its name.",
+       "lat": 53.3425,
+       "lon": -6.2674,
+       "duration_min": 60
+      },
+      {
+       "story_id": "christ-church",
+       "title": "Christ Church Cathedral",
+       "note": "Step into the 12th-century crypt—home to the famous mummified cat and rat.",
+       "lat": 53.3435,
+       "lon": -6.2711,
+       "duration_min": 45
+      },
+      {
+       "story_id": "hapenny-bridge",
+       "title": "Ha'penny Bridge",
+       "note": "Cross Dublin's 1816 cast-iron footbridge into the cobbled lanes of Temple Bar.",
+       "lat": 53.3464,
+       "lon": -6.2631,
+       "duration_min": 15
+      },
+      {
+       "story_id": "temple-bar",
+       "title": "Temple Bar",
+       "note": "Stroll Meeting House Square and hear how the quarter narrowly escaped becoming a bus station.",
+       "lat": 53.3454,
+       "lon": -6.2644,
+       "duration_min": 45
+      }
+     ]
+    },
+    {
+     "day_number": 2,
+     "title": "Revolution, Georgian squares & Guinness",
+     "description": "Trace Ireland's path to independence from O'Connell Street to Kilmainham, with Georgian architecture and a pint in between.",
+     "stops": [
+      {
+       "story_id": "general-post-office",
+       "title": "General Post Office (GPO)",
+       "note": "Look for the bullet scars on the Ionic columns from Easter Week 1916.",
+       "lat": 53.3497,
+       "lon": -6.2606,
+       "duration_min": 30
+      },
+      {
+       "story_id": "oconnell-bridge",
+       "title": "O'Connell Bridge",
+       "note": "Pause on the only major European traffic bridge wider than it is long.",
+       "lat": 53.3472,
+       "lon": -6.2591,
+       "duration_min": 15
+      },
+      {
+       "story_id": "st-stephens-green",
+       "title": "St. Stephen's Green",
+       "note": "Walk the Victorian park where 1916 ceasefire pauses let the park keeper feed the ducks.",
+       "lat": 53.3382,
+       "lon": -6.2591,
+       "duration_min": 45
+      },
+      {
+       "story_id": "merrion-square",
+       "title": "Merrion Square",
+       "note": "Admire Dublin's finest Georgian doorways and the reclining Oscar Wilde memorial.",
+       "lat": 53.3396,
+       "lon": -6.2492,
+       "duration_min": 30
+      },
+      {
+       "story_id": "national-gallery",
+       "title": "National Gallery of Ireland",
+       "note": "Free entry—seek out Caravaggio's lost masterpiece, rediscovered in a Dublin dining room.",
+       "lat": 53.3409,
+       "lon": -6.2525,
+       "duration_min": 90
+      },
+      {
+       "story_id": "kilmainham-gaol",
+       "title": "Kilmainham Gaol",
+       "note": "Reserve tickets well ahead for the guided tour of Ireland's most storied prison.",
+       "lat": 53.3418,
+       "lon": -6.3098,
+       "duration_min": 90
+      },
+      {
+       "story_id": "guinness-lease",
+       "title": "Guinness's 9,000-year lease",
+       "note": "Finish at St. James's Gate, still running on Arthur Guinness's 1759 9,000-year lease.",
+       "lat": 53.3419,
+       "lon": -6.2867,
+       "duration_min": 120
+      }
+     ]
+    },
+    {
+     "day_number": 3,
+     "title": "Hidden libraries, Phoenix Park & Howth",
+     "description": "Trade the main thoroughfares for Ireland's oldest public library, Europe's largest walled city park, and a DART ride to the sea.",
+     "stops": [
+      {
+       "story_id": "st-patricks-cathedral",
+       "title": "St. Patrick's Cathedral",
+       "note": "Visit Jonathan Swift's cathedral and read his fierce self-written epitaph.",
+       "lat": 53.3399,
+       "lon": -6.2715,
+       "duration_min": 45
+      },
+      {
+       "story_id": "marshs-library",
+       "title": "Marsh's Library",
+       "note": "Tucked beside the cathedral—see the 18th-century reading cages where rare-book readers were locked in.",
+       "lat": 53.3389,
+       "lon": -6.2712,
+       "duration_min": 30
+      },
+      {
+       "story_id": "henrietta-street",
+       "title": "Henrietta Street tenements",
+       "note": "Take the 14 Henrietta Street tour to feel three centuries of Georgian grandeur and tenement life.",
+       "lat": 53.3531,
+       "lon": -6.27,
+       "duration_min": 75
+      },
+      {
+       "story_id": "phoenix-park",
+       "title": "Phoenix Park",
+       "note": "Spot fallow deer in a park twice the size of Central Park.",
+       "lat": 53.3559,
+       "lon": -6.3298,
+       "duration_min": 90
+      },
+      {
+       "story_id": "howth-harbour",
+       "title": "Howth Harbour & the 1914 gun-running",
+       "note": "Ride the DART 30 minutes northeast for sea air, harbour walks, and the 1914 Asgard story.",
+       "lat": 53.3908,
+       "lon": -6.0686,
+       "duration_min": 150
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "galway-cliffs-2-days",
+   "title": "Galway & Cliffs of Moher weekend",
+   "subtitle": "Colourful western lanes, karst wildflowers, and 214-metre Atlantic sea cliffs",
+   "duration_days": 2,
+   "region": "West Coast",
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cliffs_at_Moher._County_Claire._(i.e._Clare),_Ireland-LCCN2002717369.jpg?width=1200",
+   "summary": "A classic two-day West Coast escape pairing Galway's medieval stories and Claddagh heritage with the lunar limestone of the Burren and the dramatic Cliffs of Moher.",
+   "is_free_preview": false,
+   "free_preview_days": 0,
+   "days": [
+    {
+     "day_number": 1,
+     "title": "Galway city, Claddagh & Kinvara",
+     "description": "Wander Galway's Latin Quarter before following Galway Bay south to a 16th-century castle on the tide.",
+     "stops": [
+      {
+       "story_id": "tribes-of-galway",
+       "title": "The Tribes of Galway",
+       "note": "Walk Shop Street and Quay Street to trace the 14 merchant families who shaped the city.",
+       "lat": 53.2707,
+       "lon": -9.0568,
+       "duration_min": 60
+      },
+      {
+       "story_id": "lynchs-window-galway",
+       "title": "Lynch's Window in Galway",
+       "note": "Find the stone memorial window on Market Street tied to Galway's starkest legend.",
+       "lat": 53.2731,
+       "lon": -9.0539,
+       "duration_min": 15
+      },
+      {
+       "story_id": "claddagh-ring",
+       "title": "The Claddagh ring",
+       "note": "Cross the Corrib to the Claddagh quay where the hands-heart-crown ring originated.",
+       "lat": 53.2683,
+       "lon": -9.0581,
+       "duration_min": 30
+      },
+      {
+       "story_id": "dunguaire-castle",
+       "title": "Dunguaire Castle",
+       "note": "Drive 40 minutes south to Kinvara for golden-hour reflections on Galway Bay.",
+       "lat": 53.1422,
+       "lon": -8.9261,
+       "duration_min": 45
+      }
+     ]
+    },
+    {
+     "day_number": 2,
+     "title": "The Burren, Cliffs of Moher & Bunratty",
+     "description": "Cross County Clare's limestone plateau to the Atlantic edge, returning via one of Ireland's best-preserved tower houses.",
+     "stops": [
+      {
+       "story_id": "burren-flowers",
+       "title": "The wildflowers of the Burren",
+       "note": "Pause along the R480 to see Arctic and Mediterranean wildflowers blooming side by side.",
+       "lat": 53.0072,
+       "lon": -9.0936,
+       "duration_min": 60
+      },
+      {
+       "story_id": "diarmuid-grainne-dolmens",
+       "title": "Diarmuid & Gráinne's beds",
+       "note": "Visit Poulnabrone Portal Tomb, standing on the Burren pavement for over 5,000 years.",
+       "lat": 53.0486,
+       "lon": -9.14,
+       "duration_min": 30
+      },
+      {
+       "story_id": "cliffs-of-moher",
+       "title": "Cliffs of Moher",
+       "note": "Walk south from O'Brien's Tower along the cliff path for quieter seabird views.",
+       "lat": 52.9715,
+       "lon": -9.4309,
+       "duration_min": 120
+      },
+      {
+       "story_id": "bunratty-castle",
+       "title": "Bunratty Castle",
+       "note": "Stop on the way back towards Shannon or Limerick to explore the 15th-century fortress.",
+       "lat": 52.6967,
+       "lon": -8.8119,
+       "duration_min": 150
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "west-coast-5-days",
+   "title": "5 days on the west coast",
+   "subtitle": "North-to-south coastal road trip from Donegal's cliffs to County Clare",
+   "duration_days": 5,
+   "region": "West Coast",
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sliabh_Liag_Panorama.jpg?width=1200",
+   "summary": "Five unforgettable days down Ireland's Atlantic seaboard, linking Donegal's towering Slieve League, Sligo's Yeats country, Mayo's wild islands, Connemara, and the Aran Islands.",
+   "is_free_preview": false,
+   "free_preview_days": 0,
+   "days": [
+    {
+     "day_number": 1,
+     "title": "Donegal's fort, glen & sea cliffs",
+     "description": "Begin in the rugged northwest, from an ancient hilltop ringfort to Europe's highest accessible sea cliffs.",
+     "stops": [
+      {
+       "story_id": "grianan-of-aileach",
+       "title": "Grianán of Aileach",
+       "note": "Climb to the stone ringfort on Inishowen for sweeping views over Lough Swilly and Lough Foyle.",
+       "lat": 55.0236,
+       "lon": -7.4275,
+       "duration_min": 45
+      },
+      {
+       "story_id": "glenveagh-castle",
+       "title": "Glenveagh Castle",
+       "note": "Walk the lakeside trail through Glenveagh National Park to the Victorian castle and gardens.",
+       "lat": 55.0592,
+       "lon": -7.9378,
+       "duration_min": 120
+      },
+      {
+       "story_id": "slieve-league",
+       "title": "Slieve League cliffs",
+       "note": "Take the shuttle or walk up to Bunglass Point for 600-metre drops into the Atlantic.",
+       "lat": 54.6367,
+       "lon": -8.6819,
+       "duration_min": 90
+      }
+     ]
+    },
+    {
+     "day_number": 2,
+     "title": "Sligo's Armada coast & Yeats country",
+     "description": "Follow Benbulben's flat-topped silhouette past a 1588 shipwreck beach and Ireland's most famous poet's grave.",
+     "stops": [
+      {
+       "story_id": "armada-streedagh",
+       "title": "The Spanish Armada at Streedagh",
+       "note": "Walk Streedagh Strand where three Spanish Armada ships broke apart in September 1588.",
+       "lat": 54.4067,
+       "lon": -8.5625,
+       "duration_min": 60
+      },
+      {
+       "story_id": "yeats-drumcliffe",
+       "title": "W. B. Yeats at Drumcliffe",
+       "note": "Visit Drumcliffe Churchyard beneath Benbulben to read W. B. Yeats's stark epitaph.",
+       "lat": 54.3278,
+       "lon": -8.4944,
+       "duration_min": 30
+      },
+      {
+       "story_id": "sligo-rovers",
+       "title": "Sligo Rovers & the Showgrounds",
+       "note": "Pass through Sligo town and the Showgrounds, rooted in a 19th-century agricultural show.",
+       "lat": 54.2703,
+       "lon": -8.4875,
+       "duration_min": 15
+      }
+     ]
+    },
+    {
+     "day_number": 3,
+     "title": "Mayo: sacred peak, Achill & Cong",
+     "description": "Journey through Clew Bay's island-studded waters and into the quiet woodlands on the Mayo–Galway border.",
+     "stops": [
+      {
+       "story_id": "croagh-patrick",
+       "title": "Croagh Patrick",
+       "note": "Admire Ireland's holy mountain from Murrisk—or hike the lower shoulder for Clew Bay panoramas.",
+       "lat": 53.7597,
+       "lon": -9.6586,
+       "duration_min": 60
+      },
+      {
+       "story_id": "basking-sharks-achill",
+       "title": "Basking sharks of Achill Island",
+       "note": "Drive out to Keem Bay on Achill Island, once the centre of Ireland's shark-oil fishery.",
+       "lat": 53.9633,
+       "lon": -10.0367,
+       "duration_min": 90
+      },
+      {
+       "story_id": "grace-omalley",
+       "title": "Grace O'Malley, the Pirate Queen",
+       "note": "Look out toward Clare Island, stronghold of the 16th-century pirate queen.",
+       "lat": 53.8022,
+       "lon": -9.9881,
+       "duration_min": 30
+      },
+      {
+       "story_id": "quiet-man-cong",
+       "title": "The Quiet Man in Cong",
+       "note": "End the day in Cong village, where John Ford filmed The Quiet Man in 1951.",
+       "lat": 53.5414,
+       "lon": -9.2869,
+       "duration_min": 60
+      }
+     ]
+    },
+    {
+     "day_number": 4,
+     "title": "Connemara & the Aran Islands",
+     "description": "Wind through mountain passes and bogland to the coast before crossing to Inis Mór.",
+     "stops": [
+      {
+       "story_id": "kylemore-abbey",
+       "title": "Kylemore Abbey",
+       "note": "Arrive early for mirror-still reflections of the neo-Gothic castle on Pollacapall Lough.",
+       "lat": 53.5617,
+       "lon": -9.8894,
+       "duration_min": 120
+      },
+      {
+       "story_id": "clifden-alcock-brown",
+       "title": "Alcock & Brown's Atlantic landing",
+       "note": "Walk the Derrigimlagh Bog boardwalk to the exact landing spot of the 1919 transatlantic flight.",
+       "lat": 53.4578,
+       "lon": -10.0258,
+       "duration_min": 60
+      },
+      {
+       "story_id": "dun-aonghasa",
+       "title": "Dún Aonghasa",
+       "note": "Take the Rossaveel ferry to Inis Mór and climb to the prehistoric fort perched on a 100-metre cliff.",
+       "lat": 53.1258,
+       "lon": -9.7667,
+       "duration_min": 240
+      }
+     ]
+    },
+    {
+     "day_number": 5,
+     "title": "The Burren, Cliffs of Moher & Inis Oírr",
+     "description": "Wrap up the coastal drive across Clare's karst uplands and dramatic sandstone cliffs.",
+     "stops": [
+      {
+       "story_id": "burren-flowers",
+       "title": "The wildflowers of the Burren",
+       "note": "Explore the limestone pavements and hidden dry-stone valleys of Burren National Park.",
+       "lat": 53.0072,
+       "lon": -9.0936,
+       "duration_min": 60
+      },
+      {
+       "story_id": "cliffs-of-moher",
+       "title": "Cliffs of Moher",
+       "note": "Walk the coastal trail from Doolin or the visitor centre above the nesting seabirds.",
+       "lat": 52.9715,
+       "lon": -9.4309,
+       "duration_min": 120
+      },
+      {
+       "story_id": "plassy-wreck",
+       "title": "The Plassy wreck, Inis Oírr",
+       "note": "From Doolin Pier, spot Inis Oírr on the horizon—where the rusted MV Plassy still rests on the shore.",
+       "lat": 53.0631,
+       "lon": -9.5036,
+       "duration_min": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cork-kerry-4-days",
+   "title": "Cork, Cobh & the Ring of Kerry",
+   "subtitle": "Maritime history, harbour forts, mountain lakes and a boat to Skellig Michael",
+   "duration_days": 4,
+   "region": "South",
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SkelligMichael.JPG?width=1200",
+   "summary": "Four days through Ireland's southwest: ring Cork's Shandon Bells, trace Titanic's last port of call in Cobh, explore Kinsale's star fort, walk Killarney's lakes, then take the boat from Portmagee to Skellig Michael.",
+   "is_free_preview": false,
+   "free_preview_days": 0,
+   "days": [
+    {
+     "day_number": 1,
+     "title": "Cork city, Blarney & Cobh harbour",
+     "description": "Combine Cork's riverside character with Blarney's famous tower and the poignant harbour town of Cobh.",
+     "stops": [
+      {
+       "story_id": "shandon-bells-cork",
+       "title": "The Bells of Shandon",
+       "note": "Climb St. Anne's tower in Cork to ring the 18th-century bells yourself.",
+       "lat": 51.9033,
+       "lon": -8.4767,
+       "duration_min": 45
+      },
+      {
+       "story_id": "blarney-castle",
+       "title": "Blarney Castle & the Blarney Stone",
+       "note": "Explore the castle battlements, poison garden, and rock close.",
+       "lat": 51.9291,
+       "lon": -8.5709,
+       "duration_min": 120
+      },
+      {
+       "story_id": "cobh-titanic",
+       "title": "Cobh & the Titanic",
+       "note": "Walk Cobh's colourful waterfront—the final port of call for RMS Titanic in April 1912.",
+       "lat": 51.8503,
+       "lon": -8.2943,
+       "duration_min": 90
+      },
+      {
+       "story_id": "spike-island-cork",
+       "title": "Spike Island, Cork",
+       "note": "Take the short harbour ferry to the former fortress and island prison in Cork Harbour.",
+       "lat": 51.835,
+       "lon": -8.2869,
+       "duration_min": 180
+      }
+     ]
+    },
+    {
+     "day_number": 2,
+     "title": "Kinsale's forts & the West Cork coast",
+     "description": "Head southwest along colourful harbour towns steeped in naval and revolutionary history.",
+     "stops": [
+      {
+       "story_id": "kinsale-1601",
+       "title": "The Battle of Kinsale (1601)",
+       "note": "Stroll Kinsale's narrow streets where the decisive 1601 battle reshaped Gaelic Ireland.",
+       "lat": 51.7059,
+       "lon": -8.5222,
+       "duration_min": 60
+      },
+      {
+       "story_id": "charles-fort-kinsale",
+       "title": "Charles Fort, Kinsale",
+       "note": "Walk the Scilly coastal path out to the massive 17th-century star-shaped sea fort.",
+       "lat": 51.6964,
+       "lon": -8.4992,
+       "duration_min": 90
+      },
+      {
+       "story_id": "lusitania-kinsale",
+       "title": "The Lusitania & Kinsale",
+       "note": "Visit the Old Courthouse in Kinsale, where the 1915 Lusitania inquest was held.",
+       "lat": 51.7064,
+       "lon": -8.5228,
+       "duration_min": 30
+      },
+      {
+       "story_id": "bantry-bay-1796",
+       "title": "The 1796 Bantry Bay expedition",
+       "note": "Continue west to Bantry Bay, where winter gales thwarted Wolfe Tone's French armada.",
+       "lat": 51.6806,
+       "lon": -9.4525,
+       "duration_min": 45
+      }
+     ]
+    },
+    {
+     "day_number": 3,
+     "title": "Killarney National Park & the Ring of Kerry",
+     "description": "Spend the morning by Killarney's lakes, then drive the Ring of Kerry west to Portmagee for the night, ready for an early boat.",
+     "stops": [
+      {
+       "story_id": "ross-castle-killarney",
+       "title": "Ross Castle, Killarney",
+       "note": "Start by Lough Leane at the 15th-century O'Donoghue stronghold.",
+       "lat": 52.0414,
+       "lon": -9.5314,
+       "duration_min": 60
+      },
+      {
+       "story_id": "muckross-house",
+       "title": "Muckross House",
+       "note": "Tour the lakeside mansion and gardens framed by Mangerton Mountain.",
+       "lat": 52.0181,
+       "lon": -9.5036,
+       "duration_min": 120
+      },
+      {
+       "story_id": "killarney-red-deer",
+       "title": "Killarney's native red deer",
+       "note": "Keep an eye on the meadows around Muckross for Ireland's only native red deer herd.",
+       "lat": 52.0108,
+       "lon": -9.5467,
+       "duration_min": 45
+      }
+     ]
+    },
+    {
+     "day_number": 4,
+     "title": "Skellig Michael by boat & Valentia Island",
+     "description": "Landing tours leave Portmagee in the morning and take most of the day; afterwards, cross the bridge to Valentia Island.",
+     "stops": [
+      {
+       "story_id": "skellig-michael",
+       "title": "Skellig Michael",
+       "note": "Landing boats run from Portmagee mid-May to September and only in calm seas. Book months ahead and keep a spare day in case the trip is cancelled. The climb is 618 uneven steps.",
+       "lat": 51.7713,
+       "lon": -10.5406,
+       "duration_min": 300
+      },
+      {
+       "story_id": "puffins-skelligs",
+       "title": "The puffins of Skellig Michael",
+       "note": "Puffins nest on the island from late March to early August, often right beside the steps. Give them space.",
+       "lat": 51.7717,
+       "lon": -10.5406,
+       "duration_min": 30
+      },
+      {
+       "story_id": "valentia-cable",
+       "title": "The Valentia transatlantic cable",
+       "note": "Back on land, cross the bridge to Valentia Island, where the first transatlantic telegraph cable came ashore in 1858.",
+       "lat": 51.9261,
+       "lon": -10.2928,
+       "duration_min": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "belfast-causeway-2-days",
+   "title": "Belfast & the Causeway Coast",
+   "subtitle": "Industrial pioneers, basalt columns, cliffside castles, and walled Derry",
+   "duration_days": 2,
+   "region": "North",
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant%27s_Causeway._County_Antrim,_Ireland-LCCN2002717355.jpg?width=1200",
+   "summary": "A compact two-day northern itinerary pairing Belfast's scientific heritage and Carrickfergus Castle with the Antrim Coast Road, Giant's Causeway, Dunluce Castle, and the intact walls of Derry.",
+   "is_free_preview": false,
+   "free_preview_days": 0,
+   "days": [
+    {
+     "day_number": 1,
+     "title": "Belfast's inventors & Carrickfergus",
+     "description": "Discover how Belfast thinkers changed global physics and transport before heading up Belfast Lough to a Norman fortress.",
+     "stops": [
+      {
+       "story_id": "lord-kelvin-belfast",
+       "title": "Lord Kelvin of Belfast",
+       "note": "See the statue of Belfast-born William Thomson (Lord Kelvin) at Botanic Gardens.",
+       "lat": 54.5977,
+       "lon": -5.9301,
+       "duration_min": 30
+      },
+      {
+       "story_id": "dunlop-belfast",
+       "title": "John Boyd Dunlop in Belfast",
+       "note": "Trace John Boyd Dunlop's 1888 pneumatic tyre invention in Belfast's streets.",
+       "lat": 54.5973,
+       "lon": -5.9301,
+       "duration_min": 30
+      },
+      {
+       "story_id": "carrickfergus-castle",
+       "title": "Carrickfergus Castle",
+       "note": "Walk the sea-washed ramparts of one of Ireland's best-preserved 12th-century Norman castles.",
+       "lat": 54.7133,
+       "lon": -5.8064,
+       "duration_min": 90
+      },
+      {
+       "story_id": "andrew-jackson-carrickfergus",
+       "title": "Andrew Jackson's Antrim roots",
+       "note": "Visit nearby Boneybefore, ancestral home of the seventh U.S. president's family.",
+       "lat": 54.7158,
+       "lon": -5.8058,
+       "duration_min": 45
+      }
+     ]
+    },
+    {
+     "day_number": 2,
+     "title": "The Causeway Coast & Derry's walls",
+     "description": "Follow the dramatic North Antrim cliffs from rope bridge to basalt stones, finishing on Derry's 17th-century ramparts.",
+     "stops": [
+      {
+       "story_id": "carrick-a-rede",
+       "title": "Carrick-a-Rede Rope Bridge",
+       "note": "Cross the coastal rope bridge suspended 30 metres above salmon-fishing waters.",
+       "lat": 55.2392,
+       "lon": -6.3322,
+       "duration_min": 90
+      },
+      {
+       "story_id": "giants-causeway",
+       "title": "Giant's Causeway",
+       "note": "Walk out onto the 40,000 interlocking hexagonal basalt columns formed 60 million years ago.",
+       "lat": 55.2408,
+       "lon": -6.5116,
+       "duration_min": 120
+      },
+      {
+       "story_id": "dunluce-castle",
+       "title": "Dunluce Castle",
+       "note": "Pause at the dramatic cliff-edge ruins where the lost 17th-century town lies beneath the grass.",
+       "lat": 55.2111,
+       "lon": -6.5794,
+       "duration_min": 60
+      },
+      {
+       "story_id": "derry-walls",
+       "title": "The walls of Derry",
+       "note": "End the trip with a full 1.5 km circuit atop Derry's unbroken 1618 city walls.",
+       "lat": 54.9958,
+       "lon": -7.3214,
+       "duration_min": 90
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "classic-ireland-7-days",
+   "title": "7-day classic Ireland loop",
+   "subtitle": "The complete first-timer's circuit: Dublin, Boyne Valley, Wicklow, Cork, Kerry, Clare & Galway",
+   "duration_days": 7,
+   "region": "East & Midlands",
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Newgrange_(S%C3%AD_an_Bhr%C3%BA)_Monument,_Donore,_%C3%89ire_-_44753827130.jpg?width=1200",
+   "summary": "One week around the island, connecting 5,000-year-old passage tombs, monastic valleys, medieval castles, sea cliffs and lively cities, and back to Dublin across the Shannon.",
+   "is_free_preview": false,
+   "free_preview_days": 0,
+   "days": [
+    {
+     "day_number": 1,
+     "title": "Dublin essentials",
+     "description": "Settle in with Dublin's essential landmarks on a compact city walking loop.",
+     "stops": [
+      {
+       "story_id": "trinity-college",
+       "title": "Trinity College Dublin",
+       "note": "Begin in the cobbled quadrangles of Ireland's oldest university.",
+       "lat": 53.3442,
+       "lon": -6.2546,
+       "duration_min": 45
+      },
+      {
+       "story_id": "book-of-kells",
+       "title": "The Book of Kells",
+       "note": "View the illuminated manuscript and the soaring Long Room.",
+       "lat": 53.3438,
+       "lon": -6.2546,
+       "duration_min": 60
+      },
+      {
+       "story_id": "hapenny-bridge",
+       "title": "Ha'penny Bridge",
+       "note": "Cross the Liffey on Dublin's most beloved 1816 footbridge.",
+       "lat": 53.3464,
+       "lon": -6.2631,
+       "duration_min": 15
+      },
+      {
+       "story_id": "kilmainham-gaol",
+       "title": "Kilmainham Gaol",
+       "note": "Take an afternoon tour to ground yourself in modern Irish history.",
+       "lat": 53.3418,
+       "lon": -6.3098,
+       "duration_min": 90
+      }
+     ]
+    },
+    {
+     "day_number": 2,
+     "title": "Boyne Valley & ancient Meath",
+     "description": "Drive 45 minutes north of Dublin into Ireland's ancient royal heartland.",
+     "stops": [
+      {
+       "story_id": "newgrange",
+       "title": "Newgrange",
+       "note": "Book Brú na Bóinne in advance to step inside a 3200 BC passage tomb older than the pyramids.",
+       "lat": 53.6947,
+       "lon": -6.4755,
+       "duration_min": 180
+      },
+      {
+       "story_id": "hill-of-slane",
+       "title": "The Hill of Slane",
+       "note": "Climb the hilltop overlooking the Boyne where legend places St. Patrick's Easter fire.",
+       "lat": 53.7178,
+       "lon": -6.5442,
+       "duration_min": 45
+      },
+      {
+       "story_id": "trim-castle",
+       "title": "Trim Castle",
+       "note": "Explore Ireland's largest Anglo-Norman castle, famously used as a set in Braveheart.",
+       "lat": 53.5548,
+       "lon": -6.7897,
+       "duration_min": 75
+      }
+     ]
+    },
+    {
+     "day_number": 3,
+     "title": "Wicklow Mountains & medieval Kilkenny",
+     "description": "Head south through the Wicklow glens to Ireland's medieval marble city.",
+     "stops": [
+      {
+       "story_id": "powerscourt-waterfall",
+       "title": "Powerscourt Waterfall",
+       "note": "Stop at Ireland's highest waterfall tucked in a wooded valley at the foot of Djouce.",
+       "lat": 53.1461,
+       "lon": -6.2108,
+       "duration_min": 60
+      },
+      {
+       "story_id": "glendalough",
+       "title": "Glendalough",
+       "note": "Walk from the 6th-century monastic round tower up to the Upper Lake.",
+       "lat": 53.0108,
+       "lon": -6.3275,
+       "duration_min": 120
+      },
+      {
+       "story_id": "kilkenny-castle",
+       "title": "Kilkenny Castle",
+       "note": "Arrive in Kilkenny for an evening stroll along the River Nore and castle parklands.",
+       "lat": 52.6505,
+       "lon": -7.2493,
+       "duration_min": 90
+      }
+     ]
+    },
+    {
+     "day_number": 4,
+     "title": "Rock of Cashel & Cork harbour",
+     "description": "Cross the Golden Vale to Tipperary's hilltop cathedral before reaching Cork.",
+     "stops": [
+      {
+       "story_id": "rock-of-cashel",
+       "title": "Rock of Cashel",
+       "note": "Arrive as the gates open to see the medieval skyline rising above Tipperary's plain.",
+       "lat": 52.5201,
+       "lon": -7.8905,
+       "duration_min": 90
+      },
+      {
+       "story_id": "cahir-castle",
+       "title": "Cahir Castle",
+       "note": "Pause on the River Suir at one of Ireland's grandest surviving medieval fortresses.",
+       "lat": 52.3744,
+       "lon": -7.9269,
+       "duration_min": 60
+      },
+      {
+       "story_id": "blarney-castle",
+       "title": "Blarney Castle & the Blarney Stone",
+       "note": "Walk the castle grounds and gardens just northwest of Cork City.",
+       "lat": 51.9291,
+       "lon": -8.5709,
+       "duration_min": 120
+      },
+      {
+       "story_id": "cobh-titanic",
+       "title": "Cobh & the Titanic",
+       "note": "Spend the evening by Cork Harbour where Titanic picked up its last passengers.",
+       "lat": 51.8503,
+       "lon": -8.2943,
+       "duration_min": 90
+      }
+     ]
+    },
+    {
+     "day_number": 5,
+     "title": "Killarney lakes & the Dingle Peninsula",
+     "description": "Journey west into Kerry's mountains and out along the wild Slea Head coast.",
+     "stops": [
+      {
+       "story_id": "ross-castle-killarney",
+       "title": "Ross Castle, Killarney",
+       "note": "Morning lakeside views across Lough Leane toward the MacGillycuddy's Reeks.",
+       "lat": 52.0414,
+       "lon": -9.5314,
+       "duration_min": 60
+      },
+      {
+       "story_id": "muckross-house",
+       "title": "Muckross House",
+       "note": "Explore the Victorian estate and Torc Waterfall trail.",
+       "lat": 52.0181,
+       "lon": -9.5036,
+       "duration_min": 120
+      },
+      {
+       "story_id": "gallarus-oratory",
+       "title": "Gallarus Oratory",
+       "note": "Continue onto the Dingle Peninsula to see the dry-stone church that has stayed watertight for centuries.",
+       "lat": 52.1725,
+       "lon": -10.3519,
+       "duration_min": 30
+      },
+      {
+       "story_id": "great-blasket",
+       "title": "Great Blasket Island",
+       "note": "Visit the Blasket Centre at Dún Chaoin overlooking the uninhabited Atlantic islands.",
+       "lat": 52.1042,
+       "lon": -10.4533,
+       "duration_min": 60
+      }
+     ]
+    },
+    {
+     "day_number": 6,
+     "title": "Cliffs of Moher, the Burren & Galway",
+     "description": "Take the Tarbert–Killimer car ferry across the Shannon into Clare and follow the coast north to Galway Bay.",
+     "stops": [
+      {
+       "story_id": "cliffs-of-moher",
+       "title": "Cliffs of Moher",
+       "note": "Walk the dramatic cliff path above the Atlantic swells.",
+       "lat": 52.9715,
+       "lon": -9.4309,
+       "duration_min": 120
+      },
+      {
+       "story_id": "burren-flowers",
+       "title": "The wildflowers of the Burren",
+       "note": "Drive the coastal road around Black Head through Clare's limestone terraces.",
+       "lat": 53.0072,
+       "lon": -9.0936,
+       "duration_min": 60
+      },
+      {
+       "story_id": "dunguaire-castle",
+       "title": "Dunguaire Castle",
+       "note": "Stop at Kinvara for the tower house on the tide, rebuilt on the site of King Guaire's fort.",
+       "lat": 53.1422,
+       "lon": -8.9261,
+       "duration_min": 45
+      },
+      {
+       "story_id": "tribes-of-galway",
+       "title": "The Tribes of Galway",
+       "note": "Spend the night in Galway City with live traditional music in the Latin Quarter.",
+       "lat": 53.2707,
+       "lon": -9.0568,
+       "duration_min": 90
+      }
+     ]
+    },
+    {
+     "day_number": 7,
+     "title": "Galway, Clonmacnoise & Athlone",
+     "description": "A slow morning in Galway's old town, then east across the Shannon at Clonmacnoise and Athlone, and back to Dublin on the M6 (about 2 hours).",
+     "stops": [
+      {
+       "story_id": "lynchs-window-galway",
+       "title": "Lynch's Window in Galway",
+       "note": "Find the stone memorial window on Market Street tied to Galway's starkest legend.",
+       "lat": 53.2731,
+       "lon": -9.0539,
+       "duration_min": 15
+      },
+      {
+       "story_id": "claddagh-ring",
+       "title": "The Claddagh ring",
+       "note": "Cross the Corrib to the Claddagh quay where the hands-heart-crown ring originated.",
+       "lat": 53.2683,
+       "lon": -9.0581,
+       "duration_min": 30
+      },
+      {
+       "story_id": "clonmacnoise",
+       "title": "Clonmacnoise",
+       "note": "Leave the motorway for the 6th-century monastic ruins on the banks of the Shannon, 20 minutes south of Athlone.",
+       "lat": 53.3267,
+       "lon": -7.9861,
+       "duration_min": 90
+      },
+      {
+       "story_id": "athlone-siege-1691",
+       "title": "The Siege of Athlone (1691)",
+       "note": "Walk to the Shannon bridge and the castle, where the 1691 siege turned on a few planks across a broken arch.",
+       "lat": 53.4239,
+       "lon": -7.9407,
+       "duration_min": 45
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
