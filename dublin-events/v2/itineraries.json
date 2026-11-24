@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:39:19.478960+00:00",
+ "generated_at": "2026-11-23T23:19:43.914364+00:00",
  "count": 6,
  "itineraries": [
   {
@@ -9,7 +9,7 @@
    "duration_days": 3,
    "region": "Dublin",
    "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Ha%27Penny_Bridge_Dublin_-_Samuel_Frederick_Brocas.jpg?width=1200",
-   "summary": "Explore Dublin on foot over three balanced days: Day 1 covers the medieval core and Trinity (free preview), Day 2 links the 1916 Rising with Georgian squares and Guinness, and Day 3 uncovers hidden libraries and Howth Harbour.",
+   "summary": "Explore Dublin on foot over three balanced days: Day 1 covers the medieval core and Trinity, Day 2 links the 1916 Rising with Georgian squares and the Liberties' brewing history, and Day 3 uncovers hidden libraries and Howth Harbour.",
    "is_free_preview": true,
    "free_preview_days": 1,
    "days": [
@@ -70,8 +70,8 @@
     },
     {
      "day_number": 2,
-     "title": "Revolution, Georgian squares & Guinness",
-     "description": "Trace Ireland's path to independence from O'Connell Street to Kilmainham, with Georgian architecture and a pint in between.",
+     "title": "Revolution, Georgian squares & the Liberties",
+     "description": "Trace Ireland's path to independence from O'Connell Street to Kilmainham, with Georgian architecture on the way and the Liberties' brewing history to finish.",
      "stops": [
       {
        "story_id": "general-post-office",
@@ -124,7 +124,7 @@
       {
        "story_id": "guinness-lease",
        "title": "Guinness's 9,000-year lease",
-       "note": "Finish at St. James's Gate, still running on Arthur Guinness's 1759 9,000-year lease.",
+       "note": "Finish at St. James's Gate in the Liberties, where a 1759 lease ran for 9,000 years.",
        "lat": 53.3419,
        "lon": -6.2867,
        "duration_min": 120
