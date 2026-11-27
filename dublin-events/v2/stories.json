@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-23T23:19:43.914364+00:00",
- "count": 206,
+ "generated_at": "2026-11-26T15:30:38.676788+00:00",
+ "count": 216,
  "stories": [
   {
    "id": "abbey-theatre",
@@ -1684,6 +1684,110 @@
    "booking_url": null
   },
   {
+   "id": "bob-tisdall-1932",
+   "title": "Bob Tisdall 1932",
+   "hook": "One hurdle cost Nenagh's Bob Tisdall a record.",
+   "summary": "One hurdle cost Nenagh's Bob Tisdall a record. Bob grew up in County Tipperary. In 1932, he asked to run for Ireland.",
+   "body": "Bob grew up in County Tipperary. In 1932, he asked to run for Ireland. But accounts say he had barely raced the 400 metre hurdles.\n\nYet in Los Angeles, he led the Olympic final into the home straight. Then he knocked down the last hurdle. He stumbled, and held on to win.\n\nThe official report printed 51.8 seconds, under the world record. Its footnote: Tisdall's record disallowed, hurdle knocked down. So the record went to the man he beat, the American Glenn Hardin. Years later, the sport's world body listed Bob as first under 52 seconds. Fallen hurdle and all.",
+   "series": "Irish Stories",
+   "county": "Tipperary",
+   "region": "South",
+   "category": "History",
+   "lat": 52.8632,
+   "lon": -8.1995,
+   "geo_precision": "place",
+   "estimated_read_min": 1,
+   "hero_image_url": "https://dublinevents-75714.web.app/img/archive/bob-tisdall-1932-lasthurdle.jpg",
+   "gallery": [
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/bob-tisdall-1932-lasthurdle.jpg",
+     "caption": "1932 · The last hurdle, final",
+     "license": "Public domain",
+     "author": "Xth Olympiade Committee, Official Report (1933)",
+     "source_url": "https://archive.org/details/in.ernet.dli.2015.211468/page/n471/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/bob-tisdall-1932-portrait.jpg",
+     "caption": "1932 · Bob Tisdall, Ireland",
+     "license": "Public domain",
+     "author": "Xth Olympiade Committee, Official Report (1933)",
+     "source_url": "https://archive.org/details/in.ernet.dli.2015.211468/page/n470/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/bob-tisdall-1932-heat.jpg",
+     "caption": "1932 · An early heat, LA",
+     "license": "Public domain",
+     "author": "Xth Olympiade Committee, Official Report (1933)",
+     "source_url": "https://archive.org/details/in.ernet.dli.2015.211468/page/n471/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/bob-tisdall-1932-rear.jpg",
+     "caption": "1932 · The final, first hurdle",
+     "license": "Public domain",
+     "author": "Xth Olympiade Committee, Official Report (1933)",
+     "source_url": "https://archive.org/details/in.ernet.dli.2015.211468/page/n470/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/bob-tisdall-1932-tape.jpg",
+     "caption": "1932 · Sprint for the tape",
+     "license": "Public domain",
+     "author": "Xth Olympiade Committee, Official Report (1933)",
+     "source_url": "https://archive.org/details/in.ernet.dli.2015.211468/page/n472/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/bob-tisdall-1932-results.jpg",
+     "caption": "1933 · Official Report, p.438",
+     "license": "Public domain",
+     "author": "Xth Olympiade Committee, Official Report (1933)",
+     "source_url": "https://archive.org/details/in.ernet.dli.2015.211468/page/n472/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/bob-tisdall-1932-stand.jpg",
+     "caption": "1932 · Victory stand, LA",
+     "license": "Public domain",
+     "author": "Xth Olympiade Committee, Official Report (1933)",
+     "source_url": "https://archive.org/details/in.ernet.dli.2015.211468/page/n472/mode/1up"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Hook and beat 4, the knocked last hurdle cost the record. Olympedia, '400 metres Hurdles, Men' (1932)",
+     "url": "https://www.olympedia.org/results/58000"
+    },
+    {
+     "title": "Hook and beat 1, Nenagh. Olympics.ie",
+     "url": "https://olympics.ie/athlete/bob-tisdall/"
+    },
+    {
+     "title": "Beat 1, 1932 request. McCausland (Achilles Club PDF)",
+     "url": "https://web.archive.org/web/20050131064333/http://www.achilles.org/ftp/tisdall.pdf"
+    },
+    {
+     "title": "Beat 2, barely raced the event (attributed",
+     "url": "https://www.irishtimes.com/sport/death-of-an-irish-olympic-champion-1.1151174"
+    },
+    {
+     "title": "Beat 3, led the final into the home straight. McCausland",
+     "url": "https://www.irishtimes.com/opinion/an-irishman-s-diary-1.951998"
+    },
+    {
+     "title": "Beat 5, the printed time and the footnote (the object itself). Official Report (1933), p. 438",
+     "url": "https://archive.org/details/in.ernet.dli.2015.211468/page/n472/mode/1up"
+    },
+    {
+     "title": "Beat 6, the record went to Hardin. Olympedia",
+     "url": "https://en.wikipedia.org/wiki/Men%27s_400_metres_hurdles_world_record_progression"
+    },
+    {
+     "title": "Close, listed first under 52 (attributed to the world body; a listing, not a ratification). IAAF,…",
+     "url": "https://web.archive.org/web/20120819164545/http://www2.iaaf.org/TheSport/Sport/400h/MenLandmarks.html"
+    }
+   ],
+   "featured": false,
+   "is_free_preview": false,
+   "booking_url": null
+  },
+  {
    "id": "bohemians-dalymount",
    "title": "Bohemians & Dalymount Park",
    "hook": "In 1924, America's footballers came to Phibsborough.",
@@ -2436,6 +2540,121 @@
     {
      "title": "Caption engagement line 'Tag an O'Brien.' TCD exhibition, world page",
      "url": "https://www.tcd.ie/library/exhibitions/boru/world.php"
+    }
+   ],
+   "featured": false,
+   "is_free_preview": false,
+   "booking_url": null
+  },
+  {
+   "id": "browns-hill-dolmen",
+   "title": "Browns Hill Dolmen",
+   "hook": "How did farmers lift Carlow's 100-tonne stone?",
+   "summary": "How did farmers lift Carlow's 100-tonne stone? It roofs a tomb at Brownshill, near Carlow town, about 5,000 years old.",
+   "body": "It roofs a tomb at Brownshill, near Carlow town, about 5,000 years old. Later scholars tried to explain it. In 1788, William Beauford drew it.\n\nThe book that printed his drawing likened such stones to Danish pagan altars. A century later, William Copeland Borlase put the stone at 100 tons.\n\nHe believed no bigger block had been raised in Europe. So how? Borlase's answer: the granite boulder had lain there since the Ice Age.\n\nIt never had to travel. Tree trunks levered it up, he wrote, as stones were wedged beneath. Archaeologists still favour levers. And only one end was ever lifted high.",
+   "series": "Irish Stories",
+   "county": "Carlow",
+   "region": "East & Midlands",
+   "category": "History",
+   "lat": 52.8373,
+   "lon": -6.881,
+   "geo_precision": "place",
+   "estimated_read_min": 1,
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/IMG_BrownshillDolmen.jpg?width=1280",
+   "gallery": [
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IMG_BrownshillDolmen.jpg?width=1280",
+     "caption": "2007 · Brownshill, Co Carlow",
+     "license": "Public domain",
+     "author": "Sarah777 (English Wikipedia user), own work, 2 May 2007",
+     "source_url": "https://commons.wikimedia.org/wiki/File:IMG_BrownshillDolmen.jpg"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brownshill_Dolmen.JPG?width=1280",
+     "caption": "2008 · Brownshill portal tomb",
+     "license": "Public domain",
+     "author": "Jotempe (Wikimedia Commons user), own work, 30 Apr 2008",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Brownshill_Dolmen.JPG"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/browns-hill-dolmen-beauford.jpg",
+     "caption": "1788 · Brown's Hill cromlech",
+     "license": "Public domain",
+     "author": "W. Beauford del. 1788, in Francis Grose, The Antiquities of Ireland, vol. 1 (1791)",
+     "source_url": "https://archive.org/details/antiquitiesofire01gros/page/n39/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/browns-hill-dolmen-altars.jpg",
+     "caption": "1791 · Antiquities of Ireland",
+     "license": "Public domain",
+     "author": "Francis Grose, The Antiquities of Ireland, vol. 1 (1791), introduction p. vi",
+     "source_url": "https://archive.org/details/antiquitiesofire01gros/page/n27/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/browns-hill-dolmen-table.jpg",
+     "caption": "1897 · Borlase, p. 433",
+     "license": "Public domain",
+     "author": "W. C. Borlase, The Dolmens of Ireland, vol. 2 (1897), p. 433",
+     "source_url": "https://archive.org/details/dolmensofireland02borl/page/433/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/browns-hill-dolmen-etching.jpg",
+     "caption": "1897 · Borlase, p. 399",
+     "license": "Public domain",
+     "author": "W. C. Borlase, The Dolmens of Ireland, vol. 2 (1897), p. 399, fig. 379",
+     "source_url": "https://archive.org/details/dolmensofireland02borl/page/399/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/browns-hill-dolmen-boulder.jpg",
+     "caption": "1897 · Borlase, p. 434",
+     "license": "Public domain",
+     "author": "W. C. Borlase, The Dolmens of Ireland, vol. 2 (1897), p. 434",
+     "source_url": "https://archive.org/details/dolmensofireland02borl/page/434/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/browns-hill-dolmen-levers.jpg",
+     "caption": "1897 · Borlase, p. 436",
+     "license": "Public domain",
+     "author": "W. C. Borlase, The Dolmens of Ireland, vol. 2 (1897), p. 436",
+     "source_url": "https://archive.org/details/dolmensofireland02borl/page/436/mode/1up"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Hook and beat 1, weight floor, place and age. Heritage Ireland (OPW), 'Brownshill Portal Dolmen",
+     "url": "https://heritageireland.ie/unguided-sites/brownshill-portal-dolmen/"
+    },
+    {
+     "title": "Second source for weight, age and 'largest'. Discover Ireland (Fáilte Ireland), 'Brownshill Dolmen",
+     "url": "https://discoverireland.ie/carlow/brownshill-dolmen"
+    },
+    {
+     "title": "Hook, 'farmers'. Newgrange.com (Mythical Ireland), 'Neolithic Ireland",
+     "url": "https://www.newgrange.com/neolithic-ireland.htm"
+    },
+    {
+     "title": "Beat 2, Beauford drew it in 1788. The plate in Grose, The Antiquities of Ireland, vol. 1 (1791),…",
+     "url": "https://archive.org/details/antiquitiesofire01gros/page/n39/mode/1up"
+    },
+    {
+     "title": "Beat 3, 'likened such stones to Danish pagan altars' (attributed to the book). Grose, The Antiqui…",
+     "url": "https://archive.org/details/antiquitiesofire01gros/page/n27/mode/1up"
+    },
+    {
+     "title": "Beats 4 and 5, Borlase's 100 tons and 'largest in Europe' (attributed",
+     "url": "https://archive.org/details/dolmensofireland02borl/page/433/mode/1up"
+    },
+    {
+     "title": "Beats 6 and 7, Borlase's answer (attributed",
+     "url": "https://archive.org/details/dolmensofireland02borl/page/434/mode/1up"
+    },
+    {
+     "title": "Close, 'Archaeologists still favour levers'. Vicki Cummings and Colin Richards, 'How to build a d…",
+     "url": "https://archaeology.co.uk/articles/features/how-to-build-a-dolmen.htm"
+    },
+    {
+     "title": "Close, 'only one end was ever lifted high'. Borlase (1897), p. 398",
+     "url": "https://archive.org/details/dolmensofireland02borl/page/399/mode/1up"
     }
    ],
    "featured": false,
@@ -4778,6 +4997,125 @@
     {
      "title": "Burned on 25 May 1921 by the Irish Republican Army; the Custom House burned for five days; many c…",
      "url": "https://en.wikipedia.org/wiki/Burning_of_the_Custom_House"
+    }
+   ],
+   "featured": false,
+   "is_free_preview": false,
+   "booking_url": null
+  },
+  {
+   "id": "deirdre-of-the-sorrows",
+   "title": "Deirdre of the Sorrows",
+   "hook": "In Ulster, a legend begins with a scream.",
+   "summary": "In Ulster, a legend begins with a scream. An unborn girl screamed at a feast, the tale says. The druid Cathbad foretold evil.",
+   "body": "An unborn girl screamed at a feast, the tale says. The druid Cathbad foretold evil. Warriors wanted her dead. King Conor hid her, to marry her himself.\n\nOne winter she saw a raven drink blood on snow. She longed for a man in those colours. That man was Naoise. He and his two brothers fled with her to Scotland.\n\nConor promised them safe return. At Emain Macha, his men killed all three brothers. For a year with Conor, Deirdre never smiled.\n\nGiven to Naoise's killer, she chose death instead. Cathbad read that scream right. Ireland calls her Deirdre of the Sorrows.",
+   "series": "Irish Stories",
+   "county": "Armagh",
+   "region": "North",
+   "category": "History",
+   "lat": 54.3481,
+   "lon": -6.6972,
+   "geo_precision": "place",
+   "estimated_read_min": 1,
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Althea_Gyles,_Deirdre_(1897).jpg?width=1280",
+   "gallery": [
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/deirdre-of-the-sorrows-shriek.jpg",
+     "caption": "1905 · Leahy's Deirdre, p. 91",
+     "license": "Public domain",
+     "author": "A. H. Leahy, tr., Heroic Romances of Ireland, vol. 1 (1905), 'The Exile of the Sons of Usnach, Book of Leinster version', p. 91",
+     "source_url": "https://archive.org/details/heroicromancesi00leahgoog/page/n128/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/deirdre-of-the-sorrows-name.jpg",
+     "caption": "1905 · Leahy's Deirdre, p. 92",
+     "license": "Public domain",
+     "author": "A. H. Leahy, tr., Heroic Romances of Ireland, vol. 1 (1905), 'The Exile of the Sons of Usnach, Book of Leinster version', p. 92",
+     "source_url": "https://archive.org/details/heroicromancesi00leahgoog/page/n129/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/deirdre-of-the-sorrows-slain.jpg",
+     "caption": "1905 · Leahy's Deirdre, p. 93",
+     "license": "Public domain",
+     "author": "A. H. Leahy, tr., Heroic Romances of Ireland, vol. 1 (1905), 'The Exile of the Sons of Usnach, Book of Leinster version', p. 93",
+     "source_url": "https://archive.org/details/heroicromancesi00leahgoog/page/n130/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/deirdre-of-the-sorrows-raven.jpg",
+     "caption": "1905 · Leahy's Deirdre, p. 94",
+     "license": "Public domain",
+     "author": "A. H. Leahy, tr., Heroic Romances of Ireland, vol. 1 (1905), 'The Exile of the Sons of Usnach, Book of Leinster version', p. 94",
+     "source_url": "https://archive.org/details/heroicromancesi00leahgoog/page/n131/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/deirdre-of-the-sorrows-alba.jpg",
+     "caption": "1905 · Leahy's Deirdre, p. 95",
+     "license": "Public domain",
+     "author": "A. H. Leahy, tr., Heroic Romances of Ireland, vol. 1 (1905), 'The Exile of the Sons of Usnach, Book of Leinster version', p. 95",
+     "source_url": "https://archive.org/details/heroicromancesi00leahgoog/page/n132/mode/1up"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Althea_Gyles,_Deirdre_(1897).jpg?width=1280",
+     "caption": "1897 · Althea Gyles woodcut",
+     "license": "Public domain",
+     "author": "Althea Gyles (1868-1949), woodcut 'Aided Cloinne Uisnig', published as 'Deirdre' in The Dome (1897), p. 231",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Althea_Gyles,_Deirdre_(1897).jpg"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/deirdre-of-the-sorrows-smile.jpg",
+     "caption": "1905 · Leahy's Deirdre, p. 98",
+     "license": "Public domain",
+     "author": "A. H. Leahy, tr., Heroic Romances of Ireland, vol. 1 (1905), 'The Exile of the Sons of Usnach, Book of Leinster version', p. 98",
+     "source_url": "https://archive.org/details/heroicromancesi00leahgoog/page/n135/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/deirdre-of-the-sorrows-synge.jpg",
+     "caption": "1910 · Synge, Cuala Press",
+     "license": "Public domain",
+     "author": "J. M. Synge, Deirdre of the Sorrows: A Play (Cuala Press, 1910), title page",
+     "source_url": "https://archive.org/details/deirdreofsorrows00syngrich/page/n10/mode/1up"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Framing. The whole story is told as legend",
+     "url": "https://celt.ucc.ie/published/T301020B.html"
+    },
+    {
+     "title": "Hook and beat 1, the scream. Leahy (1905) p. 91",
+     "url": "https://archive.org/details/heroicromancesi00leahgoog/page/n128/mode/1up"
+    },
+    {
+     "title": "Beat 1, Cathbad. Leahy (1905) p. 92",
+     "url": "https://archive.org/details/heroicromancesi00leahgoog/page/n129/mode/1up"
+    },
+    {
+     "title": "Beat 2. Leahy (1905) p. 93",
+     "url": "https://archive.org/details/heroicromancesi00leahgoog/page/n130/mode/1up"
+    },
+    {
+     "title": "Beat 3. Leahy (1905) p. 94",
+     "url": "https://archive.org/details/heroicromancesi00leahgoog/page/n131/mode/1up"
+    },
+    {
+     "title": "Beat 4. Leahy (1905) p. 94",
+     "url": "https://archive.org/details/heroicromancesi00leahgoog/page/n132/mode/1up"
+    },
+    {
+     "title": "Beat 5. Leahy (1905) p. 97",
+     "url": "https://archive.org/details/heroicromancesi00leahgoog/page/n134/mode/1up"
+    },
+    {
+     "title": "Beat 6. Leahy (1905) p. 98",
+     "url": "https://archive.org/details/heroicromancesi00leahgoog/page/n135/mode/1up"
+    },
+    {
+     "title": "Beat 7. Leahy (1905) p. 102",
+     "url": "https://archive.org/details/heroicromancesi00leahgoog/page/n139/mode/1up"
+    },
+    {
+     "title": "Close. 'Cathbad read that scream right' pays off the hook",
+     "url": "https://en.wikipedia.org/wiki/Deirdre"
     }
    ],
    "featured": false,
@@ -10399,6 +10737,88 @@
    "booking_url": null
   },
   {
+   "id": "jerpoint-abbey",
+   "title": "Jerpoint Abbey",
+   "hook": "A Kilkenny carver signed someone else's gravestone.",
+   "summary": "A Kilkenny carver signed someone else's gravestone. At Jerpoint Abbey, near Thomastown, a slab marks Robert Walsh of Castlehoyle. He died in 1501.",
+   "body": "At Jerpoint Abbey, near Thomastown, a slab marks Robert Walsh of Castlehoyle. He died in 1501. The slab, shared with his wife Katherine, bears a tall carved cross.\n\nTheir names run round its edge in Latin. The stem of the cross holds other words. They read Roricus Otuyne scripsit hoc: Rory O'Tunney wrote this.\n\nRory came from a family of stone carvers, said to be from Callan. The OPW credits them with the saints and apostles on two Jerpoint tombs. At Kilcooley Abbey, he signed again, and named himself Rory, son of Patrick. And the Walsh gravestone still carries its carver's signature.",
+   "series": "Irish Stories",
+   "county": "Kilkenny",
+   "region": "East & Midlands",
+   "category": "History",
+   "lat": 52.5109,
+   "lon": -7.158,
+   "geo_precision": "place",
+   "estimated_read_min": 1,
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdij_van_Jerpoint,_Ierland,_RP-F-2004-56.jpg?width=1280",
+   "gallery": [
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/jerpoint-abbey-slab.jpg",
+     "caption": "1906 · Walsh slab, Jerpoint",
+     "license": "Public domain",
+     "author": "JRSAI vol. 36 (1906), illustration No. 14 to R. Langrishe, 'Notes on Jerpoint Abbey'",
+     "source_url": "https://archive.org/details/journalofroyalso36roya/page/n273/mode/1up"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdij_van_Jerpoint,_Ierland,_RP-F-2004-56.jpg?width=1280",
+     "caption": "1856–1922 · Jerpoint Abbey",
+     "license": "CC0",
+     "author": "Anonymous photographer, published by The London Stereoscopic Company · Rijksmuseum RP-F-2004-56",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Abdij_van_Jerpoint,_Ierland,_RP-F-2004-56.jpg"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jerpoint_Abbey_The_Weepers.jpg?width=1280",
+     "caption": "2007 · Jerpoint tomb weepers",
+     "license": "CC BY 2.5",
+     "author": "Clemensfranz (Wikimedia Commons), own work, 15 May 2007",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Jerpoint_Abbey_The_Weepers.jpg"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jerpoint_Abbey.jpg?width=1280",
+     "caption": "2015 · Peter, Andrew, James",
+     "license": "CC0",
+     "author": "Wikimedia Commons user Ceoil, own work (iPhone 6, 7 June 2015)",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Jerpoint_Abbey.jpg"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kilcooley_Tower.jpg?width=1280",
+     "caption": "Kilcooley Abbey, Co. Tipperary",
+     "license": "CC BY 2.5",
+     "author": "William Bennett (uploaded as own work by Scummy at English Wikipedia, 25 Aug 2006",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Kilcooley_Tower.jpg"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Beats 0-4 (the slab, its owners, the year, the cross, the signature). R. Langrishe, 'Notes on Jer…",
+     "url": "https://archive.org/details/journalofroyalso36roya/page/n267/mode/1up"
+    },
+    {
+     "title": "Second source for the signature and the grave. W. G. Strickland, A Dictionary of Irish Artists (1…",
+     "url": "https://libraryireland.com/irishartists/rory-otunny.php"
+    },
+    {
+     "title": "Beat 1 place. Langrishe 1906, p. 181",
+     "url": "https://heritageireland.ie/places-to-visit/jerpoint-abbey/"
+    },
+    {
+     "title": "Beat 5 (family, Callan, attributed). Wikipedia, Rory O'Tunny",
+     "url": "https://en.wikipedia.org/wiki/Rory_O%27Tunny"
+    },
+    {
+     "title": "Beat 6 (OPW credit). Heritage Ireland, Jerpoint Abbey highlights",
+     "url": "https://heritageireland.ie/visit/places-to-visit/jerpoint-cistercian-abbey/highlights/"
+    },
+    {
+     "title": "Beat 6 picture (Peter, Andrew, James on an O'Tunney-attributed tomb). Commons file description, File",
+     "url": "https://commons.wikimedia.org/wiki/File:Jerpoint_Abbey.jpg"
+    }
+   ],
+   "featured": false,
+   "is_free_preview": false,
+   "booking_url": null
+  },
+  {
    "id": "jfk-wexford",
    "title": "JFK in Wexford",
    "hook": "JFK said his Wexford trip took 115 years.",
@@ -11701,6 +12121,95 @@
    "booking_url": null
   },
   {
+   "id": "limerick-verse",
+   "title": "Limerick Verse",
+   "hook": "Why is a funny five-line poem a limerick?",
+   "summary": "Why is a funny five-line poem a limerick? Edward Lear published a book of them in 1846, but called them nonsense.",
+   "body": "Edward Lear published a book of them in 1846, but called them nonsense. In 1898, a reader asked a London journal where the name came from.\n\nThe editors had never heard it. Another reader answered.\n\nHe described an old song from Ireland, its verses built like Lear's. Each singer made one up, then all sang: Will you come up to Limerick?\n\nA local historian traces the name back to Croom, on the River Maigue. There, a century before Lear, Seán Ó Tuama wrote Irish verse in that beat. That reader's question was never settled. Every answer still comes up to Limerick.",
+   "series": "Irish Stories",
+   "county": "Limerick",
+   "region": "South",
+   "category": "History",
+   "lat": 52.6638,
+   "lon": -8.6267,
+   "geo_precision": "place",
+   "estimated_read_min": 1,
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Limerick_(5648030250).jpg?width=1280",
+   "gallery": [
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/limerick-verse-beard.jpg",
+     "caption": "c. 1870 · Old Man with a beard",
+     "license": "Public domain",
+     "author": "Edward Lear, A Book of Nonsense (London: Frederick Warne",
+     "source_url": "https://archive.org/details/1870sbookofnonsense/page/n2/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/limerick-verse-title.jpg",
+     "caption": "c. 1870 · A Book of Nonsense",
+     "license": "Public domain",
+     "author": "Edward Lear, A Book of Nonsense, title page (London: Frederick Warne, c. 1870)",
+     "source_url": "https://archive.org/details/1870sbookofnonsense/page/n1/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/limerick-verse-query.jpg",
+     "caption": "1898 · Notes and Queries",
+     "license": "Public domain",
+     "author": "Notes and Queries, 19 Nov 1898, p. 408 ('Limerick' query by 'M. H.')",
+     "source_url": "https://archive.org/details/sim_notes-and-queries_1898-11-19_2_47/page/n9/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/limerick-verse-chorus.jpg",
+     "caption": "1898 · the reply",
+     "license": "Public domain",
+     "author": "Notes and Queries, 10 Dec 1898, p. 471 (reply by J. H. Murray)",
+     "source_url": "https://archive.org/details/sim_notes-and-queries_1898-12-10_2_50/page/n12/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/limerick-verse-munster.jpg",
+     "caption": "1851 · Poets of Munster",
+     "license": "Public domain",
+     "author": "John O'Daly (ed.), translations by James Clarence Mangan, The Poets and Poetry of Munster, 3rd ed. (Dublin, 1851), title page",
+     "source_url": "https://archive.org/details/poetspoetryofmun00mang/page/n6/mode/1up"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Limerick_(5648030250).jpg?width=1280",
+     "caption": "c. 1895 · Limerick",
+     "license": "No known copyright restrictions",
+     "author": "William Lawrence studio (Lawrence Collection, plate L_ROY_05293) · National Library of Ireland on The Commons",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Limerick_(5648030250).jpg"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Hook and close, the name is unexplained. Wikipedia, 'Limerick (poetry)",
+     "url": "https://en.wikipedia.org/wiki/Limerick_(poetry)"
+    },
+    {
+     "title": "Beat 1, Lear 1846, 'published a book of them ... called them nonsense'. JSTOR Daily (Wills, 2021)",
+     "url": "https://daily.jstor.org/there-once-was-a-poem-called-a-limerick"
+    },
+    {
+     "title": "Beats 2-3, the 1898 query and editors' note. Notes and Queries, 9th ser. vol. 2, 19 Nov 1898, p. 408, verbatim",
+     "url": "https://archive.org/details/sim_notes-and-queries_1898-11-19_2_47/page/n9/mode/1up"
+    },
+    {
+     "title": "Beats 3-5, the reply three weeks later. Notes and Queries, 10 Dec 1898, pp. 470-471, signed J. H. Murray",
+     "url": "https://archive.org/details/sim_notes-and-queries_1898-12-10_2_50/page/n12/mode/1up"
+    },
+    {
+     "title": "Beats 6-7, Croom and the Maigue poets (contested naming theory, attributed in voice to 'a local h…",
+     "url": "https://www.irishtimes.com/culture/books/is-the-limerick-a-limerick-invention-1.3196974"
+    },
+    {
+     "title": "Second source for beats 6-7",
+     "url": "https://www.worldwidewords.org/qa-lim1.html"
+    }
+   ],
+   "featured": false,
+   "is_free_preview": false,
+   "booking_url": null
+  },
+  {
    "id": "lord-kelvin-belfast",
    "title": "Lord Kelvin of Belfast",
    "hook": "Cold is measured in a Belfast man's name.",
@@ -12246,6 +12755,95 @@
     {
      "title": "Close, the word (attributed",
      "url": "https://worldwidewords.org/qa-lyn1.htm"
+    }
+   ],
+   "featured": false,
+   "is_free_preview": false,
+   "booking_url": null
+  },
+  {
+   "id": "malin-head",
+   "title": "Malin Head",
+   "hook": "Malin Head asked passing ships one question.",
+   "summary": "Malin Head asked passing ships one question. Its tower in Donegal, on Ireland's northern tip, went up around 1805. It was built to spot a French fleet.",
+   "body": "Its tower in Donegal, on Ireland's northern tip, went up around 1805. It was built to spot a French fleet. The invasion never came. Nearly a century on, Lloyd's of London, the insurers, ran it instead.\n\nA travel writer found two boys there, working the signals. Their flagstaff flew a red flag over a blue one. It meant: What ship is that?\n\nShips answered with their signal letters. One six-month count logged 1,051 vessels. A wire carried the news to Lloyd's, the papers, even captains' wives. In 1902, wireless came; Malin Head messaged the steamer Lake Ontario. The question carried past the horizon.",
+   "series": "Irish Stories",
+   "county": "Donegal",
+   "region": "North",
+   "category": "History",
+   "lat": 55.3833,
+   "lon": -7.3667,
+   "geo_precision": "place",
+   "estimated_read_min": 1,
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marconi_Wireless_Telegraph_Station,_Malin_Head,_Co._Donegal,_January_1902_(7453118390).jpg?width=1280",
+   "gallery": [
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marconi_Wireless_Telegraph_Station,_Malin_Head,_Co._Donegal,_January_1902_(7453118390).jpg?width=1280",
+     "caption": "c. 1902 · Malin Head station",
+     "license": "Public domain",
+     "author": "Robert French (attrib.), William Lawrence studio · National Library of Ireland (Lawrence Collection)",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Marconi_Wireless_Telegraph_Station,_Malin_Head,_Co._Donegal,_January_1902_(7453118390).jpg"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Admiralty_Chart_No_46_Ailsa_Craig_to_Bloody_Foreland,_Published_1861.jpg?width=1280",
+     "caption": "1952 print · 1861 chart",
+     "license": "Public domain",
+     "author": "United Kingdom Hydrographic Office (survey by Capt. G. A. Bedford, 1853-1859)",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_46_Ailsa_Craig_to_Bloody_Foreland,_Published_1861.jpg"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/malin-head-list.jpg",
+     "caption": "1898 · Lloyd's station list",
+     "license": "Public domain",
+     "author": "R. J. Cornewall-Jones, The British Merchant Service (1898), p. 389",
+     "source_url": "https://archive.org/details/britishmerchants00cornuoft/page/389/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/malin-head-gwynn.jpg",
+     "caption": "1903 · Gwynn on Malin Head",
+     "license": "Public domain",
+     "author": "Stephen Gwynn, Highways and Byways in Donegal and Antrim (1903 printing), p. 208",
+     "source_url": "https://archive.org/details/highwaysbywaysin00gwynuoft/page/208/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/malin-head-table.jpg",
+     "caption": "1898 · Ships reported, 1897",
+     "license": "Public domain",
+     "author": "R. J. Cornewall-Jones, The British Merchant Service (1898), p. 390",
+     "source_url": "https://archive.org/details/britishmerchants00cornuoft/page/390/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/malin-head-rules.jpg",
+     "caption": "1898 · Lloyd's reporting rules",
+     "license": "Public domain",
+     "author": "R. J. Cornewall-Jones, The British Merchant Service (1898), p. 388",
+     "source_url": "https://archive.org/details/britishmerchants00cornuoft/page/388/mode/1up"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Question/answer of the story. Q (hook)",
+     "url": "https://archive.org/details/highwaysbywaysin00gwynuoft/page/208/mode/1up"
+    },
+    {
+     "title": "Beat 1, the tower, date and purpose. NIAH reg. 40900101 (Malin Signal Tower, Ardmalin)",
+     "url": "https://www.buildingsofireland.ie/buildings-search/building/40900101/malin-signal-tower-ardmalin-co-donegal"
+    },
+    {
+     "title": "Beat 2, the invasion never came; Lloyd's took it over. NIAH 40900101",
+     "url": "https://www.buildingsofireland.ie/buildings-search/building/40900113/marconi-telegraph-station-ardmalin-co-donegal"
+    },
+    {
+     "title": "Beat 5, ships answered; the count. Cornewall-Jones (1898), p. 388",
+     "url": "https://archive.org/details/britishmerchants00cornuoft/page/390/mode/1up"
+    },
+    {
+     "title": "Beat 6, where the news went. Cornewall-Jones (1898), p. 388",
+     "url": "https://archive.org/details/britishmerchants00cornuoft/page/388/mode/1up"
+    },
+    {
+     "title": "Close, second source for the 1902 station",
+     "url": "https://archive.org/details/sim_electrical-review_1902-08-22_51_1291"
     }
    ],
    "featured": false,
@@ -16466,6 +17064,117 @@
    "booking_url": null
   },
   {
+   "id": "shackleton-kilkea",
+   "title": "Shackleton Kilkea",
+   "hook": "Endurance was named for a Kildare family motto.",
+   "summary": "Endurance was named for a Kildare family motto. Ernest Shackleton was born at Kilkea House, near Athy, in 1874.",
+   "body": "Ernest Shackleton was born at Kilkea House, near Athy, in 1874. His Quaker forebears ran a school at nearby Ballitore.\n\nTheir crest, his biographer wrote, bore a Latin motto. Fortitudine vincimus: by endurance we conquer. Shackleton bought a Norwegian ship called Polaris. He renamed her Endurance.\n\nIn the Weddell Sea, the pack ice gripped her and crushed her. When she sank, her 28 men were left camping on the drifting ice.\n\nThey rowed to Elephant Island. Shackleton sailed on for help, and came back for them all. Every man of the Endurance survived. By endurance, they had conquered.",
+   "series": "Irish Stories",
+   "county": "Kildare",
+   "region": "East & Midlands",
+   "category": "History",
+   "lat": 52.9478,
+   "lon": -6.8928,
+   "geo_precision": "place",
+   "estimated_read_min": 1,
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Endurance_night_1915_SLNSW.jpg?width=1280",
+   "gallery": [
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Endurance_night_1915_SLNSW.jpg?width=1280",
+     "caption": "1915 · Endurance at night",
+     "license": "Public domain",
+     "author": "Frank Hurley · State Library of New South Wales",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Endurance_night_1915_SLNSW.jpg"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernest_Shackleton_before_1909_-_Original.jpg?width=1280",
+     "caption": "c. 1909 · Ernest Shackleton",
+     "license": "Public domain",
+     "author": "George Charles Beresford (1864-1938)",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Ernest_Shackleton_before_1909_-_Original.jpg"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/shackleton-kilkea-annals.jpg",
+     "caption": "1862 · The Annals of Ballitore",
+     "license": "Public domain",
+     "author": "Mary Leadbeater, The Leadbeater Papers, vol. I (1862)",
+     "source_url": "https://archive.org/details/leadbeaterpapers01lond/page/n6/"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/shackleton-kilkea-crest.jpg",
+     "caption": "1923 · Mill's Life, p. 8",
+     "license": "Public domain",
+     "author": "Hugh Robert Mill, The Life of Sir Ernest Shackleton (1923)",
+     "source_url": "https://archive.org/details/lifeofsirernests00milluoft/page/n31/"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/shackleton-kilkea-polaris.jpg",
+     "caption": "1923 · Mill's Life, p. 196",
+     "license": "Public domain",
+     "author": "Hugh Robert Mill, The Life of Sir Ernest Shackleton (1923)",
+     "source_url": "https://archive.org/details/lifeofsirernests00milluoft/page/n245/"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%27Endurance%27_heeled_to_port_by_the_ice_RMG_P00004.tiff?width=1280",
+     "caption": "1915 · Endurance heeled over",
+     "license": "Public domain",
+     "author": "James Francis (Frank) Hurley · Royal Museums Greenwich",
+     "source_url": "https://commons.wikimedia.org/wiki/File:%27Endurance%27_heeled_to_port_by_the_ice_RMG_P00004.tiff"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Endurance_Final_Sinking.jpg?width=1280",
+     "caption": "1915 · Endurance's last days",
+     "license": "Public domain",
+     "author": "Frank Hurley",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Endurance_Final_Sinking.jpg"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AllSafeAllWell.jpg?width=1280",
+     "caption": "1916 · Elephant Island",
+     "license": "Public domain",
+     "author": "Frank Hurley",
+     "source_url": "https://commons.wikimedia.org/wiki/File:AllSafeAllWell.jpg"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Hook",
+     "url": "https://archive.org/details/lifeofsirernests00milluoft/page/n245/"
+    },
+    {
+     "title": "Beat 1, birth. Mill (1923), p. 3",
+     "url": "https://archive.org/details/lifeofsirernests00milluoft/page/n26/"
+    },
+    {
+     "title": "Beat 2, the Quaker school at Ballitore. Mill (1923), p. 5",
+     "url": "https://archive.org/details/lifeofsirernests00milluoft/page/n28/"
+    },
+    {
+     "title": "Beat 3, crest and motto (attributed",
+     "url": "https://archive.org/details/lifeofsirernests00milluoft/page/n31/"
+    },
+    {
+     "title": "Beat 4, Polaris renamed. Mill (1923), p. 195-196",
+     "url": "https://en.wikipedia.org/wiki/Endurance_(1912_ship)"
+    },
+    {
+     "title": "Beat 5, beset and crushed. Wikipedia, 'Imperial Trans-Antarctic Expedition",
+     "url": "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition"
+    },
+    {
+     "title": "Beat 7, the boats to Elephant Island and the return ('rowed",
+     "url": "https://archive.org/details/South00Shac"
+    },
+    {
+     "title": "Close, every man survived. UKAHT",
+     "url": "https://ukaht.org/latest-news/interesting-facts-about-ernest-shackleton/"
+    }
+   ],
+   "featured": false,
+   "is_free_preview": false,
+   "booking_url": null
+  },
+  {
    "id": "shandon-bells-cork",
    "title": "The Bells of Shandon",
    "hook": "A Cork priest loved these bells above Rome's.",
@@ -16556,6 +17265,103 @@
     {
      "title": "REWRITE 28 Oct 2026",
      "url": "https://commons.wikimedia.org/wiki/Category:Church_of_St_Anne_(Shandon)"
+    }
+   ],
+   "featured": false,
+   "is_free_preview": false,
+   "booking_url": null
+  },
+  {
+   "id": "shannon-pot",
+   "title": "Shannon Pot",
+   "hook": "The Shannon's source is not one pool.",
+   "summary": "The Shannon's source is not one pool. Medieval Irish place-lore explains the river's name.",
+   "body": "Medieval Irish place-lore explains the river's name. Sinann, granddaughter of the sea god Lir, sought a magic well. She wanted only wisdom.\n\nBut the well left its place, and its water drowned her. The river took her name. Legend puts that well at the Shannon Pot, in Cavan.\n\nIn 1836, a letter to the Dublin Penny Journal mapped the pot. Its writer saw no streams on this side of Cuilcagh. So, he reasoned, caves must feed the pot.\n\nCavers and dye tracing later proved him right. Some of the pot's water sinks 10 km away, in County Fermanagh. Like Sinann's well, the source wanders.",
+   "series": "Irish Stories",
+   "county": "Cavan",
+   "region": "North",
+   "category": "History",
+   "lat": 54.2348,
+   "lon": -7.919,
+   "geo_precision": "place",
+   "estimated_read_min": 1,
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuilcagh,_Fermanagh_-_33673326901.jpg?width=1280",
+   "gallery": [
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/shannon-pot-dpjmap.jpg",
+     "caption": "1836 · Map, Shannon's source",
+     "license": "Public domain",
+     "author": "W. S., 'Source of the Shannon', The Dublin Penny Journal (1836)",
+     "source_url": "https://archive.org/details/jstor-30003450/page/n1/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/shannon-pot-rc456.jpg",
+     "caption": "1894 · Sinann, Revue celtique",
+     "license": "Public domain",
+     "author": "Whitley Stokes, 'The Rennes Dindsenchas', Revue celtique 15 (1894), p. 456",
+     "source_url": "https://archive.org/details/revueceltique15pari/page/456/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/shannon-pot-rc457.jpg",
+     "caption": "1894 · Revue celtique, p. 457",
+     "license": "Public domain",
+     "author": "Whitley Stokes, 'The Rennes Dindsenchas', Revue celtique 15 (1894), p. 457",
+     "source_url": "https://archive.org/details/revueceltique15pari/page/457/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/shannon-pot-dpjtext.jpg",
+     "caption": "1836 · Dublin Penny Journal",
+     "license": "Public domain",
+     "author": "W. S., 'Source of the Shannon', The Dublin Penny Journal (1836)",
+     "source_url": "https://archive.org/details/jstor-30003450/page/n1/mode/1up"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuilcagh,_Fermanagh_-_33673326901.jpg?width=1280",
+     "caption": "2017 · Cuilcagh bog, Fermanagh",
+     "license": "CC BY 2.0",
+     "author": "Carl Meehan",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Cuilcagh,_Fermanagh_-_33673326901.jpg"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuilcagh,_Fermanagh_-_33673335641.jpg?width=1280",
+     "caption": "2017 · Cuilcagh escarpment",
+     "license": "CC BY 2.0",
+     "author": "Carl Meehan",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Cuilcagh,_Fermanagh_-_33673335641.jpg"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Hook and close (thread",
+     "url": "https://www.cavancoco.ie/services/heritage/publications/cavan-county-geological-sites-part-2.pdf"
+    },
+    {
+     "title": "Beats 1 to 3, the legend (medieval text). Whitley Stokes, 'The Rennes Dindsenchas', Revue celtiqu…",
+     "url": "https://archive.org/details/revueceltique15pari/page/456/mode/1up"
+    },
+    {
+     "title": "Beats 2 to 4, second source, and 'sea god Lir'. Cuilcagh Lakelands UNESCO Global Geopark, Shannon Pot geosite",
+     "url": "https://cuilcaghlakelands.org/geosite/shannon-pot/"
+    },
+    {
+     "title": "Beat 4, local legend, third source. Discover Ireland (Fáilte Ireland), The Shannon Pot",
+     "url": "https://www.discoverireland.ie/cavan/the-shannon-pot"
+    },
+    {
+     "title": "Beats 4 to 6, the 1836 letter. W. S., 'Source of the Shannon', The Dublin Penny Journal vol. 4, p…",
+     "url": "https://archive.org/details/jstor-30003450/page/n1/mode/1up"
+    },
+    {
+     "title": "Beat 7, cavers and dye tracing. Cavan County Geological Site Report, Western Cuilcagh",
+     "url": "https://eprints.hud.ac.uk/id/eprint/4658/"
+    },
+    {
+     "title": "Close, second source. The Irish Times, Frank McNally, An Irishman's Diary, 'Blacklion safari' (16 May 2014)",
+     "url": "https://www.irishtimes.com/culture/heritage/blacklion-safari-1.1797541"
+    },
+    {
+     "title": "Close, third source and the high-flow caveat. Wikipedia, Shannon Pot (citing LaMoreaux & Tanner 2…",
+     "url": "https://en.wikipedia.org/wiki/Shannon_Pot"
     }
    ],
    "featured": false,
@@ -16681,6 +17487,91 @@
    ],
    "featured": true,
    "is_free_preview": true,
+   "booking_url": null
+  },
+  {
+   "id": "skibbereen-famine-1846",
+   "title": "Skibbereen Famine 1846",
+   "hook": "Could one pencil prove the news from Skibbereen?",
+   "summary": "Could one pencil prove the news from Skibbereen? By early 1847, a Cork paper printed a Skibbereen doctor's famine diary.",
+   "body": "By early 1847, a Cork paper printed a Skibbereen doctor's famine diary. So the Illustrated London News sent its artist, James Mahony, to check.\n\nMahony admitted he had thought the doctor's accounts were exaggerated. Then he saw the living, the dying and the dead on one floor.\n\nNot one house in 500, he wrote, was free of death and fever. Further west, at Schull, a widowed father lay dying in a hut ten feet square.\n\nTo sketch the hut, Mahony stood ankle-deep in dirt. He wrote that neither pen nor pencil could portray Skibbereen. He drew it anyway, and asked for help.",
+   "series": "Irish Stories",
+   "county": "Cork",
+   "region": "South",
+   "category": "History",
+   "lat": 51.5492,
+   "lon": -9.2675,
+   "geo_precision": "place",
+   "estimated_read_min": 1,
+   "hero_image_url": "https://dublinevents-75714.web.app/img/archive/skibbereen-famine-1846-report.jpg",
+   "gallery": [
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/skibbereen-famine-1846-report.jpg",
+     "caption": "1847 · Illustrated London News",
+     "license": "Public domain",
+     "author": "James Mahony · Illustrated London News",
+     "source_url": "https://archive.org/details/sim_illustrated-london-news_1847-02-13_10_250/page/n3/"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/skibbereen-famine-1846-clover.jpg",
+     "caption": "1847 · Skibbereen, Clover Hill",
+     "license": "Public domain",
+     "author": "James Mahony, engraved by Smyth · ILN",
+     "source_url": "https://archive.org/details/sim_illustrated-london-news_1847-02-13_10_250/page/n4/"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/skibbereen-famine-1846-lane.jpg",
+     "caption": "1847 · Old Chapel Lane sketch",
+     "license": "Public domain",
+     "author": "James Mahony, engraved by Smyth · ILN",
+     "source_url": "https://archive.org/details/sim_illustrated-london-news_1847-02-13_10_250/page/n3/"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/skibbereen-famine-1846-diary.jpg",
+     "caption": "1847 · Mahony's report, ILN",
+     "license": "Public domain",
+     "author": "James Mahony · Illustrated London News",
+     "source_url": "https://archive.org/details/sim_illustrated-london-news_1847-02-13_10_250/page/n3/"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/skibbereen-famine-1846-mullins.jpg",
+     "caption": "1847 · Mullins's hut, Schull",
+     "license": "Public domain",
+     "author": "James Mahony, engraved by Smyth · ILN",
+     "source_url": "https://archive.org/details/sim_illustrated-london-news_1847-02-20_10_251/page/n3/"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/skibbereen-famine-1846-appeal.jpg",
+     "caption": "1847 · Mahony's last page, ILN",
+     "license": "Public domain",
+     "author": "James Mahony · Illustrated London News",
+     "source_url": "https://archive.org/details/sim_illustrated-london-news_1847-02-20_10_251/page/n4/"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Hook and question. The hook is a framing question, not a claim. 'Pencil' is planted here and paid…",
+     "url": "https://archive.org/details/sim_illustrated-london-news_1847-02-13_10_250/page/n3/"
+    },
+    {
+     "title": "Beat 1, the doctor's diary in a Cork paper, early 1847. Illustrated London News, 13 Feb 1847, p.…",
+     "url": "https://viewsofthefamine.wordpress.com/illustrated-london-news/sketches-in-the-west-of-ireland/"
+    },
+    {
+     "title": "Beat 2, the ILN sends Mahony to check. ILN, 13 Feb 1847, p. 100 (IA scan)",
+     "url": "https://www.irishexaminer.com/lifestyle/arid-30827196.html"
+    },
+    {
+     "title": "Beat 6, the Schull hut. ILN, 20 Feb 1847, p. 117",
+     "url": "https://archive.org/details/sim_illustrated-london-news_1847-02-20_10_251/page/n4/"
+    },
+    {
+     "title": "Context on Mahony's images (not on screen, guides wording and crops). RTÉ, Emily Mark-Fitzgerald…",
+     "url": "https://www.rte.ie/history/famine-ireland/2020/1116/1178493-how-victorian-artists-depicted-the-famine"
+    }
+   ],
+   "featured": false,
+   "is_free_preview": false,
    "booking_url": null
   },
   {
@@ -18407,6 +19298,103 @@
     }
    ],
    "featured": true,
+   "is_free_preview": false,
+   "booking_url": null
+  },
+  {
+   "id": "tuatha-de-danann",
+   "title": "Tuatha De Danann",
+   "hook": "Ireland's old gods came unseen, the legends say.",
+   "summary": "Ireland's old gods came unseen, the legends say. They were the Tuatha Dé Danann. Keating's history brings them to Leitrim.",
+   "body": "They were the Tuatha Dé Danann. Keating's history brings them to Leitrim. On landing, he wrote, they burned their ships.\n\nThen a druid mist hid them for three days, till they reached Sliabh an Iarainn. They ruled until the Gaels came, then gave up the country.\n\nBut, Lady Gregory wrote, they would not bow to the Gaels. So Manannán hid them in the hills, behind walls no man could see through.\n\nCenturies on, in 1888, Yeats quoted antiquarians. Those deities had dwindled to a few spans high. Folklore says they are still there, the aos sí, people of the mounds. Still unseen.",
+   "series": "Irish Stories",
+   "county": "Leitrim",
+   "region": "West Coast",
+   "category": "History",
+   "lat": 54.0926,
+   "lon": -7.9721,
+   "geo_precision": "place",
+   "estimated_read_min": 1,
+   "hero_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Riders_of_th_Sidhe_(big).jpg?width=1280",
+   "gallery": [
+    {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Riders_of_th_Sidhe_(big).jpg?width=1280",
+     "caption": "1911 · Riders of the Sidhe",
+     "license": "Public domain",
+     "author": "John Duncan (1866-1945), 'The Riders of the Sidhe', tempera on canvas, 1911, McManus Galleries, Dundee",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Riders_of_th_Sidhe_(big).jpg"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/tuatha-de-danann-keating.jpg",
+     "caption": "1902 · Keating's History",
+     "license": "Public domain",
+     "author": "Geoffrey Keating, The History of Ireland, vol. 1, ed. and tr. David Comyn (Irish Texts Society, 1902), title page",
+     "source_url": "https://archive.org/details/historyofireland04keat/page/n8/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/tuatha-de-danann-k213.jpg",
+     "caption": "1902 · Keating, p. 213",
+     "license": "Public domain",
+     "author": "Geoffrey Keating, The History of Ireland, vol. 1, tr. David Comyn (1902), p. 213",
+     "source_url": "https://archive.org/details/historyofireland04keat/page/n242/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/tuatha-de-danann-g71.jpg",
+     "caption": "1904 · Lady Gregory, p. 71",
+     "license": "Public domain",
+     "author": "Lady Gregory, Gods and Fighting Men (1904), 'The Battle of Tailltin', p. 71",
+     "source_url": "https://archive.org/details/godsfightingmens00greguoft/page/n98/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/tuatha-de-danann-g73.jpg",
+     "caption": "1904 · Lady Gregory, p. 73",
+     "license": "Public domain",
+     "author": "Lady Gregory, Gods and Fighting Men (1904), 'Book Four: The Ever-Living Living Ones', p. 73",
+     "source_url": "https://archive.org/details/godsfightingmens00greguoft/page/n100/mode/1up"
+    },
+    {
+     "url": "https://dublinevents-75714.web.app/img/archive/tuatha-de-danann-yeats.jpg",
+     "caption": "1888 · Yeats, Fairy Tales",
+     "license": "Public domain",
+     "author": "W. B. Yeats, ed., Fairy and Folk Tales of the Irish Peasantry (1888), 'The Trooping Fairies', p. 1",
+     "source_url": "https://archive.org/details/fairyfolktalesof00yeatuoft/page/n26/mode/1up"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Framing. The whole story is told as legend",
+     "url": "https://en.wikipedia.org/wiki/Tuatha_D%C3%A9_Danann"
+    },
+    {
+     "title": "Hook",
+     "url": "https://archive.org/details/godsfightingmens00greguoft/page/n28/mode/1up"
+    },
+    {
+     "title": "Beats 1-3",
+     "url": "https://celt.ucc.ie/published/T100054/text020.html"
+    },
+    {
+     "title": "Beat 3, place",
+     "url": "https://en.wikipedia.org/wiki/Sliabh_an_Iarainn"
+    },
+    {
+     "title": "Beat 4",
+     "url": "https://archive.org/details/godsfightingmens00greguoft/page/n98/mode/1up"
+    },
+    {
+     "title": "Beats 5-6",
+     "url": "https://archive.org/details/godsfightingmens00greguoft/page/n100/mode/1up"
+    },
+    {
+     "title": "Beat 7 ('Centuries on' is relative time between the medieval tellings and 1888; the copy drops th…",
+     "url": "https://archive.org/details/fairyfolktalesof00yeatuoft/page/n26/mode/1up"
+    },
+    {
+     "title": "Close",
+     "url": "https://en.wikipedia.org/wiki/Aos_S%C3%AD"
+    }
+   ],
+   "featured": false,
    "is_free_preview": false,
    "booking_url": null
   },
