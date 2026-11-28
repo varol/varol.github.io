@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-28T00:03:11.615763+00:00",
- "events_generated_at": "2026-11-28T00:03:11.615763+00:00",
+ "generated_at": "2026-11-28T12:58:49.022973+00:00",
+ "events_generated_at": "2026-11-28T12:58:49.022973+00:00",
  "stories_generated_at": "2026-11-26T15:30:38.676788+00:00",
  "itineraries_generated_at": "2026-11-26T15:30:38.676788+00:00",
  "cities": {
-  "Dublin": 1242,
-  "Limerick": 135,
-  "Galway": 177,
-  "Cork": 203,
-  "Belfast": 221
+  "Dublin": 1213,
+  "Galway": 178,
+  "Limerick": 139,
+  "Cork": 205,
+  "Belfast": 212
  }
 }
